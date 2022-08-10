@@ -9,6 +9,10 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+.env
+sanity/sanity.json
 
 # macOS
 .DS_Store
+
+# deliverooharshapp.sanity.studio
